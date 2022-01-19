@@ -21,6 +21,6 @@ According to termux version (Termux v0.95) Extra Keyboard work. plz be sure abou
 ## setup instruction
 
 ```
-git clone namamu cd Termux-Banner-Bash; bash setup; 
+git clone https://github.com/Zuck-Ker/hdr cd Termux-Banner-Bash; bash setup; 
 
 ```
